@@ -6,7 +6,7 @@ function Weather(){
 const [city,setCity]=useState("");
 const [data,setData]=useState(null);
 
-const API_KEY="74a2fa029aa71e1a6857ad1cb56070bf";
+const API_KEY="put you api";
 
 const emojis={
 Clear:"☀️",
